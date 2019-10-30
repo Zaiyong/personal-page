@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Zaiyong Zhang | Data Scientist',
   siteDescription:
-    'Zaiyong Zhang is a Data Scientist based in Hamburg, Germany who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Zaiyong Zhang is a Data Scientist based in Hamburg, Germany who specializes in digital transformation and predictive maintenance.',
   siteKeywords:
     'Zaiyong Zhang, Brittany, Chiang, Zaiyong, Data Scientist, front-end engineer, web developer, javascript, northeastern',
   siteUrl: 'https://brittanychiang.com',

@@ -5,4 +5,4 @@ subtitle: 'I extract values for the data.'
 contactText: 'Get In Touch'
 ---
 
-I'm a Data Scientist based in Hamburg, Germany specializing in digital transformation and predictive maintenance.
+I'm a Data Scientist based in Hamburg, Germany who specializes in digital transformation and predictive maintenance.
