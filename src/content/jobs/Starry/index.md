@@ -1,8 +1,8 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
+title: 'Data Scientist Co-op'
 company: 'Starry'
-location: 'Boston, MA'
+location: 'Hamburg, Germany'
 range: 'July - Dec 2016'
 url: 'https://www.apple.com/music/'
 ---
