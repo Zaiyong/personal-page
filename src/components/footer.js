@@ -99,7 +99,7 @@ const Footer = ({ githubInfo }) => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/bchiang7/v4"
+        href="https://github.com/Zaiyong/v4"
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Designed &amp; Built by Zaiyong Zhang</div>
