@@ -4,6 +4,7 @@ import {
   IconGithub,
   IconLinkedin,
   IconCodepen,
+  IconXing,
   IconInstagram,
   IconTwitter,
   IconStar,
@@ -85,6 +86,8 @@ const Footer = ({ githubInfo }) => (
                   <IconLinkedin />
                 ) : name === 'Codepen' ? (
                   <IconCodepen />
+                ) : name === 'Xing' ? (
+                  <IconXing />
                 ) : name === 'Instagram' ? (
                   <IconInstagram />
                 ) : name === 'Twitter' ? (
