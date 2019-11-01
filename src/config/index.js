@@ -3,16 +3,16 @@ module.exports = {
   siteDescription:
     'Zaiyong Zhang is a Data Scientist based in Hamburg, Germany who specializes in digital transformation and predictive maintenance.',
   siteKeywords:
-    'Zaiyong Zhang, Brittany, Chiang, Zaiyong, Data Scientist, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Zaiyong Zhang, Zaiyong, Data Scientist, Data Science, Big Data, Machine learning, Python, Hamburg',
+  siteUrl: 'https://zaiyongzhang.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'XXXXXXXXXXX',
+  googleVerification: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
   name: 'Zaiyong Zhang',
   location: 'Hamburg, Germany',
   email: 'zaiyong.zhang@yahoo.com',
   github: 'https://github.com/Zaiyong',
-  twitterHandle: '@Zaiyong',
+  //  twitterHandle: '@Zaiyong',
   socialMedia: [
     {
       name: 'Github',
@@ -21,6 +21,10 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ZaiyongZhang',
+    },
+    {
+      name: 'Xing',
+      url: 'https://www.xing.com/profile/Zaiyong_Zhang/cv',
     },
   ],
 
