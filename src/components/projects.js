@@ -5,21 +5,13 @@ import sr from '@utils/sr';
 import { srConfig } from '@config';
 import { IconGithub, IconExternal, IconFolder } from '@components/icons';
 import styled from 'styled-components';
-import { theme, mixins, media, Section, Button } from '@styles';
+import { theme, mixins, media, Section, Button, Heading } from '@styles';
 const { colors, fontSizes, fonts } = theme;
 
 const ProjectsContainer = styled(Section)`
   ${mixins.flexCenter};
   flex-direction: column;
   align-items: flex-start;
-`;
-const ProjectsTitle = styled.h4`
-  margin: 0 auto 50px;
-  font-size: ${fontSizes.h3};
-  ${media.tablet`font-size: 24px;`};
-  a {
-    display: block;
-  }
 `;
 const ProjectsGrid = styled.div`
   .projects {
@@ -126,8 +118,8 @@ const Projects = ({ data }) => {
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
-    <ProjectsContainer>
-      <ProjectsTitle ref={revealTitle}>Other Projects</ProjectsTitle>
+    <ProjectsContainer id="projects">
+      <Heading ref={revealTitle}>Projects</Heading>
       <ProjectsGrid>
         <TransitionGroup className="projects">
           {projectsToShow &&
