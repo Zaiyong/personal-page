@@ -5,7 +5,7 @@
   zaiyongzhang.com
 </h1>
 <p align="center">
-  The source code of <a href="http://zaiyongzhang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>
+  The source code of <a href="http://zaiyongzhang.com" target="_blank">zaiyongzhang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>
 </p>
 
 <p align="center">
