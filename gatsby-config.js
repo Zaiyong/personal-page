@@ -25,6 +25,12 @@ module.exports = {
         icon: 'src/images/logo.png',
       },
     },
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: 'zaiyongzhang.com',
+      },
+    },
     `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-source-filesystem',
